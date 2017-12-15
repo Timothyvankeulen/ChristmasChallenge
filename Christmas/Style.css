@@ -1,0 +1,119 @@
+nav a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 50px;
+}
+
+div.boomBovenKant {
+    margin-top:0;
+}
+
+div.piek {
+    width:0;
+    heigth:0;
+    border-left:25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid green;
+    margin-left:775px;
+}
+
+div.boomOnderKant, .boomMidden, .boomBovenKant {
+    width:50px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid green;
+    margin-left:750px;
+}
+
+div.stam {
+    width:20px;
+    height:50px;
+    background-color: saddlebrown;
+    margin-left:790px;
+}
+
+div.star {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 50px solid gold;
+    position: relative;
+    left:778px;
+    top:25px;
+}
+div.star2 {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 50px solid gold;
+    position: absolute;
+    top: 50px;
+    left:787px;
+}
+
+div.verlichting {
+    width:76px;
+    height:5px;
+    background:yellow;
+    position:absolute;
+    top:130px;
+    left:770px;
+}
+
+div.verlichting1 {
+    width:76px;
+    height:5px;
+    background:yellow;
+    position:absolute;
+    top:180px;
+    left:770px;
+}
+
+div.verlichting2 {
+    width:76px;
+    height:5px;
+    background:yellow;
+    position:absolute;
+    top:230px;
+    left:770px;
+}
+
+div.ball1, div.ball2, div.ball3, div.ball4, div.ball5, div.ball6, div.ball7 {
+    width:15px;
+    height:15px;
+    background:blue;
+    border-radius:50px;
+    position:absolute;
+}
+
+div.ball1 {
+    top:105px;
+    left:785px;
+}
+div.ball2 {
+    top:120px;
+    left:820px;
+}
+div.ball3 {
+    top:135px;
+    left:795px;
+}
+div.ball4 {
+    top:165px;
+    left:815px;
+}
+div.ball5 {
+    top:180px;
+    left:785px;
+}
+div.ball6 {
+    top:205px;
+    left:810px;
+}
+div.ball7 {
+    top:225px;
+    left:780px;
+}
